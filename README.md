@@ -1,4 +1,4 @@
-# real-time-chat
+# Real time chat app demo
 Real time chat app demo created with React.js, Node.js, Express.js &amp; HarperDB 
 
 Users can choose a chatroom & username in the home page and then join the room they want.
